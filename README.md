@@ -1,7 +1,7 @@
 MAC0499: Final Course Assignment - Realtime Audio Effects
 ==============================
 
-This repository contains some LV2 audio plugins developed for a final course assignment in Institute of Mathematics ans Statistics - University of São Paulo.
+This repository contains some LV2 audio plugins developed for a final course assignment in Institute of Mathematics and Statistics - University of São Paulo.
 
 ## Dependencies
 
